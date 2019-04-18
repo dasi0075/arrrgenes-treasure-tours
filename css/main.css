@@ -5,7 +5,7 @@ html {
 
 .masthead {
   background-color: #522806;
-  border-bottom: .3rem solid #bea59b;
+  border-bottom: .3rem solid #fff;
   color: #fff;
 }
 
@@ -28,7 +28,7 @@ html {
 }
 
 .nav a span {
-  border-bottom: .3rem solid #fff;
+  border-bottom: .3rem solid #bea59b;
 }
 
 .nav a:hover span,
